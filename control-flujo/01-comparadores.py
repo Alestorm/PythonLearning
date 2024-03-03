@@ -1,0 +1,5 @@
+print(1 > 2)
+print(4 < 5)
+print(4 == 5)
+print(5 == 5)
+print(6 <= 5)
